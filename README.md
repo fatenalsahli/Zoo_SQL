@@ -4,7 +4,7 @@
 
 
 
-This files displays several SQL database operations: selection and join 
+ SQL database operations: selection and join 
 
 
  SELECT : select statement is used to fetch the data from a database table which returns this data in the form of a result table.
